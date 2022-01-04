@@ -1,0 +1,2 @@
+primary first function:
+    - be able to construct a function or expression, and simulate its execution
